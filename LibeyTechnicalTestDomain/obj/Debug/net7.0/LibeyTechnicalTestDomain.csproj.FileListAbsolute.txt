@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Desktop\TEST\LibeyTechnicalTest-main\LibeyTechnicalTest-main\LibeyTechnicalTestAPI\LibeyTechnicalTestDomain\bin\Debug\net7.0\LibeyTechnicalTestDomain.deps.json
+C:\Users\USUARIO\Desktop\TEST\LibeyTechnicalTest-main\LibeyTechnicalTest-main\LibeyTechnicalTestAPI\LibeyTechnicalTestDomain\bin\Debug\net7.0\LibeyTechnicalTestDomain.dll
+C:\Users\USUARIO\Desktop\TEST\LibeyTechnicalTest-main\LibeyTechnicalTest-main\LibeyTechnicalTestAPI\LibeyTechnicalTestDomain\bin\Debug\net7.0\LibeyTechnicalTestDomain.pdb
+C:\Users\USUARIO\Desktop\TEST\LibeyTechnicalTest-main\LibeyTechnicalTest-main\LibeyTechnicalTestAPI\LibeyTechnicalTestDomain\obj\Debug\net7.0\LibeyTechnicalTestDomain.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\TEST\LibeyTechnicalTest-main\LibeyTechnicalTest-main\LibeyTechnicalTestAPI\LibeyTechnicalTestDomain\obj\Debug\net7.0\LibeyTechnicalTestDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\TEST\LibeyTechnicalTest-main\LibeyTechnicalTest-main\LibeyTechnicalTestAPI\LibeyTechnicalTestDomain\obj\Debug\net7.0\LibeyTechnicalTestDomain.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\TEST\LibeyTechnicalTest-main\LibeyTechnicalTest-main\LibeyTechnicalTestAPI\LibeyTechnicalTestDomain\obj\Debug\net7.0\LibeyTechnicalTestDomain.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\TEST\LibeyTechnicalTest-main\LibeyTechnicalTest-main\LibeyTechnicalTestAPI\LibeyTechnicalTestDomain\obj\Debug\net7.0\LibeyTechnicalTestDomain.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\TEST\LibeyTechnicalTest-main\LibeyTechnicalTest-main\LibeyTechnicalTestAPI\LibeyTechnicalTestDomain\obj\Debug\net7.0\LibeyTechnicalTestDomain.dll
+C:\Users\USUARIO\Desktop\TEST\LibeyTechnicalTest-main\LibeyTechnicalTest-main\LibeyTechnicalTestAPI\LibeyTechnicalTestDomain\obj\Debug\net7.0\refint\LibeyTechnicalTestDomain.dll
+C:\Users\USUARIO\Desktop\TEST\LibeyTechnicalTest-main\LibeyTechnicalTest-main\LibeyTechnicalTestAPI\LibeyTechnicalTestDomain\obj\Debug\net7.0\LibeyTechnicalTestDomain.pdb
+C:\Users\USUARIO\Desktop\TEST\LibeyTechnicalTest-main\LibeyTechnicalTest-main\LibeyTechnicalTestAPI\LibeyTechnicalTestDomain\obj\Debug\net7.0\ref\LibeyTechnicalTestDomain.dll
